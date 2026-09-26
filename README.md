@@ -1,8 +1,6 @@
-# LAW LENS AI
+# LawLens AI
 
 > **Tagline:** Understand. Verify. Act with clarity.  
-> **Challenge:** Google Virtual PromptWars 2026 — Exclusive Extra Insider Challenge  
-> **Theme:** AI for Legal Assistance & Access
 
 LawLens AI is a GenAI-powered legal information and document intelligence application designed to make legal documents, employment agreements, NDAs, and service contracts transparent, understandable, and actionable for ordinary users.
 

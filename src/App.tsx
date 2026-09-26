@@ -113,6 +113,15 @@ export default function App() {
         isLoading={isLoading}
       />
 
+      {/* Language Notice Banner */}
+      {language !== 'en' && (
+        <div className="bg-indigo-950/80 border-b border-indigo-800 text-indigo-200 px-4 py-2 text-center text-xs flex items-center justify-center gap-2">
+          <span>
+            🌐 Language set to <strong className="font-semibold uppercase text-white">{language === 'hi' ? 'Hindi (हिंदी)' : 'Hinglish'}</strong>. Document Q&A responses will answer in your selected language. <em>(Full UI localization to be expanded in future releases)</em>.
+          </span>
+        </div>
+      )}
+
       {/* Main Container */}
       <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6">
         {/* Upload Zone / Toggle */}
@@ -205,9 +214,8 @@ export default function App() {
       {/* Footer */}
       <footer className="border-t border-slate-900 bg-slate-950 py-6 text-center text-xs text-slate-500 space-y-1">
         <p className="font-medium text-slate-400">
-          LAW LENS AI — GenAI Legal Document Intelligence & Navigation
+          LawLens AI — Legal Document Intelligence & Navigation
         </p>
-        <p>Google Virtual PromptWars 2026 Exclusive Extra Insider Challenge</p>
         <p className="text-[11px] text-slate-600 pt-1 flex items-center justify-center gap-1">
           <ShieldCheck className="h-3.5 w-3.5 text-slate-500" />
           LawLens AI provides grounded legal document information. It does not provide legal advice or representation.

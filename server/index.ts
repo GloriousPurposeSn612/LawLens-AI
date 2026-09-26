@@ -37,7 +37,7 @@ app.get('*', (req, res, next) => {
 if (process.env.NODE_ENV !== 'test') {
   app.listen(PORT, () => {
     console.log(`==================================================`);
-    console.log(` LAW LENS AI — Server Active`);
+    console.log(` LawLens AI — Server Active`);
     console.log(` URL: http://localhost:${PORT}`);
     console.log(` Mode: ${process.env.NODE_ENV || 'development'}`);
     console.log(`==================================================`);

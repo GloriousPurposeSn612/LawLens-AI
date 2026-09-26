@@ -25,7 +25,7 @@ export const LegalNoticeModal: React.FC<LegalNoticeModalProps> = ({ isOpen, onCl
           </div>
           <div>
             <h3 className="font-display font-bold text-lg text-white">LawLens AI — Product & Safety Boundary</h3>
-            <p className="text-xs text-slate-400">Google PromptWars 2026 Challenge Compliance</p>
+            <p className="text-xs text-slate-400">Legal Document Intelligence & Safety Guidelines</p>
           </div>
         </div>
 
@@ -33,7 +33,7 @@ export const LegalNoticeModal: React.FC<LegalNoticeModalProps> = ({ isOpen, onCl
           <div className="bg-amber-950/40 border border-amber-800/60 p-3 rounded-xl flex items-start gap-2.5 text-amber-200">
             <AlertTriangle className="h-4 w-4 text-amber-400 shrink-0 mt-0.5" />
             <p>
-              <strong className="font-semibold">Important Legal Notice:</strong> LawLens AI provides GenAI document intelligence, plain-language translation, statutory matching, and grounded information navigation. It is NOT a qualified legal professional or law firm and does NOT provide formal attorney-client legal representation or legal advice.
+              <strong className="font-semibold">Important Legal Notice:</strong> LawLens AI provides legal document intelligence, plain-language translation, statutory matching, and grounded information navigation. It is NOT a qualified legal professional or law firm and does NOT provide formal attorney-client legal representation or legal advice.
             </p>
           </div>
 

@@ -124,9 +124,6 @@ export const DocumentChat: React.FC<DocumentChatProps> = ({
           <div>
             <h2 className="font-display font-bold text-base text-white flex items-center gap-2">
               Document-Grounded Legal Q&A
-              <span className="text-[10px] bg-emerald-950 text-emerald-300 border border-emerald-800 px-2 py-0.5 rounded-full uppercase">
-                Grounded RAG
-              </span>
             </h2>
             <p className="text-xs text-slate-400">Scoped to {analysis.metadata.filename}</p>
           </div>

@@ -110,9 +110,9 @@ router.post('/sample/:sampleId', async (req: Request, res: Response) => {
     if (sampleId === 'freelance') filename = 'synthetic_freelance_agreement.txt';
     if (sampleId === 'injection') filename = 'synthetic_malicious_prompt_injection.txt';
 
-    const fixturePath = path.resolve(__dirname, '../fixtures/samples', filename);
+    const fixturePath = path.resolve(process.cwd(), 'server/fixtures/samples', filename);
     if (!fs.existsSync(fixturePath)) {
-      return res.status(404).json({ error: `Sample fixture '${sampleId}' not found.` });
+      return res.status(404).json({ error: `Sample fixture '${sampleId}' not found at ${fixturePath}` });
     }
 
     const fileBuffer = fs.readFileSync(fixturePath);

@@ -31,10 +31,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
           <div>
             <div className="flex items-center gap-2">
-              <span className="font-display font-bold text-xl tracking-tight text-white">LAW LENS <span className="text-indigo-400">AI</span></span>
-              <span className="bg-indigo-950/80 text-indigo-300 border border-indigo-800/60 text-[10px] uppercase font-semibold px-2 py-0.5 rounded-full">
-                GenAI 2026
-              </span>
+              <span className="font-display font-bold text-xl tracking-tight text-white">LawLens <span className="text-indigo-400">AI</span></span>
             </div>
             <p className="text-xs text-slate-400">Understand. Verify. Act with clarity.</p>
           </div>
