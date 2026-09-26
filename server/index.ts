@@ -22,7 +22,7 @@ app.use(express.urlencoded({ extended: true, limit: '10mb' }));
 app.use('/api', apiRoutes);
 
 // Static frontend serving in production
-const publicPath = path.resolve(__dirname, '../../dist/public');
+const publicPath = path.resolve(process.cwd(), 'dist/public');
 app.use(express.static(publicPath));
 
 app.get('*', (req, res, next) => {
@@ -30,11 +30,7 @@ app.get('*', (req, res, next) => {
     return next();
   }
   const indexPath = path.join(publicPath, 'index.html');
-  if (path.resolve(indexPath)) {
-    res.sendFile(indexPath);
-  } else {
-    res.status(404).send('LawLens AI API Server running.');
-  }
+  res.sendFile(indexPath);
 });
 
 // Start Server if not imported by test framework
