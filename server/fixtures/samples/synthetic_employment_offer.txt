@@ -1,0 +1,31 @@
+EMPLOYMENT AGREEMENT & TERMS OF SERVICE
+
+This Employment Agreement ("Agreement") is executed on October 1, 2026, by and between ApexTech Solutions Private Limited ("Employer") and Rahul Sharma ("Employee").
+
+1. APPOINTMENT AND PROBATION
+The Employee is hereby appointed to the position of Senior Software Engineer. The Employee shall serve a probation period of six (6) months from the Commencement Date. During probation, either party may terminate this employment by giving fifteen (15) days written notice.
+
+2. REMUNERATION AND BENEFITS
+The Employee shall receive an annual Cost to Company (CTC) of INR 18,00,000/- payable in equal monthly installments on the last working day of each calendar month. Salary shall be subject to statutory tax deductions (TDS) and provident fund contributions.
+
+3. DUTIES AND HOURS OF WORK
+The Employee shall devote their full time, attention, and skills to the business of the Employer. Standard working hours are 9:00 AM to 6:00 PM, Monday through Friday. The Employee shall not engage in any other commercial activity, freelancing, or secondary employment without prior written consent.
+
+4. CONFIDENTIALITY AND DATA PROTECTION
+The Employee agrees to keep all trade secrets, proprietary algorithms, client lists, and software source code strictly confidential. Under Section 43A of the Information Technology Act 2000, unauthorized disclosure of sensitive data constitutes a material breach and grounds for immediate termination.
+
+5. INTELLECTUAL PROPERTY ASSIGNMENT
+Pursuant to Section 17(c) of the Copyright Act 1957, all inventions, software, patents, and copyrightable works created by the Employee during the course of employment shall automatically vest in and belong exclusively to the Employer.
+
+6. NOTICE PERIOD AND TERMINATION
+After completion of probation, either party may terminate employment by giving ninety (90) days prior written notice or paying gross basic salary in lieu thereof. The Employer reserves the right to require the Employee to serve the full notice period without buyout.
+
+7. RESTRICTION ON POST-EMPLOYMENT COMPETITION
+The Employee agrees that for a period of twelve (12) months following the termination of employment for any reason, the Employee shall not work for, consult with, or establish any business competing directly with the Employer within India. (Note: Subject to Section 27 of the Indian Contract Act 1872).
+
+8. GOVERNING LAW AND DISPUTE RESOLUTION
+This Agreement shall be governed by the laws of India. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of courts located in New Delhi.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement.
+Employer Signature: [ApexTech HR]
+Employee Signature: [Rahul Sharma]

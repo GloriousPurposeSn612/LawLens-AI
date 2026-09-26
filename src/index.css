@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-950 text-slate-100 antialiased font-sans;
+  }
+}
+
+.glass-panel {
+  @apply bg-slate-900/80 backdrop-blur-md border border-slate-800 rounded-xl shadow-xl;
+}
+
+.glow-subtle {
+  box-shadow: 0 0 25px -5px rgba(99, 102, 241, 0.15);
+}
+
+.risk-badge-high {
+  @apply bg-red-950/80 text-red-300 border border-red-800/60 px-2.5 py-1 rounded-full text-xs font-medium inline-flex items-center gap-1;
+}
+
+.risk-badge-medium {
+  @apply bg-amber-950/80 text-amber-300 border border-amber-800/60 px-2.5 py-1 rounded-full text-xs font-medium inline-flex items-center gap-1;
+}
+
+.risk-badge-low {
+  @apply bg-emerald-950/80 text-emerald-300 border border-emerald-800/60 px-2.5 py-1 rounded-full text-xs font-medium inline-flex items-center gap-1;
+}
+
+.risk-badge-neutral {
+  @apply bg-slate-800 text-slate-300 border border-slate-700 px-2.5 py-1 rounded-full text-xs font-medium inline-flex items-center gap-1;
+}

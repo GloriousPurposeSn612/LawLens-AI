@@ -1,0 +1,23 @@
+FREELANCE SOFTWARE SERVICES AGREEMENT
+
+This Agreement is made as of November 15, 2026, by and between CloudScale Systems Inc ("Client") and Ananya Verma ("Contractor").
+
+SECTION 1. SCOPE OF SERVICES
+Contractor agrees to deliver full-stack Web Application Development services as described in Statement of Work #1.
+
+SECTION 2. PAYMENT TERMS & MILESTONES
+Total project fee is fixed at USD $5,000. Client shall pay 50% upfront upon signing and 50% upon final acceptance testing. Invoices shall be paid within 14 calendar days of receipt. Late payments shall incur a 1.5% monthly interest fee.
+
+SECTION 3. INDEPENDENT CONTRACTOR STATUS
+Contractor is an independent contractor. Nothing in this Agreement creates an employment relationship, partnership, or joint venture.
+
+SECTION 4. INTELLECTUAL PROPERTY RIGHTS
+Upon receipt of full payment, Contractor hereby assigns to Client all rights, title, and interest in and to the custom code developed under this Agreement. Contractor retains rights to pre-existing open-source libraries and general utility functions.
+
+SECTION 5. LIMITATION OF LIABILITY
+Neither party shall be liable for indirect, incidental, or consequential damages. Contractor's total cumulative liability under this Agreement shall not exceed the total fees actually paid by Client.
+
+SECTION 6. TERMINATION
+Either party may terminate this Agreement with 7 days written notice. Client shall pay Contractor for all work completed up to the date of termination.
+
+Governing Law: State of California / Indian Arbitration Act for cross-border dispute resolution.
